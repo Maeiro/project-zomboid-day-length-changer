@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.tmp
+map_sand.bin
+map_sand.bin.backup-*
